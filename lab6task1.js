@@ -1,7 +1,10 @@
 //Task 1: Working With Variables
-let myNumber = 18;
+//1.
+let myNumber = 18; //Declaring the variable myNumber and assigning it an integer value
 
-let myString = "Hello, Javascript!"
+//2.
+let myString = "Hello, Javascript!" //Declaring the variable myString and assigning it a string value
 
-console.log(myNumber);
+//3.
+console.log(myNumber); //printing the values of each variable to the console
 console.log(myString);
